@@ -1,6 +1,6 @@
 ## darksand.nvim
 
-Just a dark color scheme with sandy colors.
+Just a dark low contrast color scheme with sandy colors.
 
 ![Screenshot](screenshots/example_1.png)
 
